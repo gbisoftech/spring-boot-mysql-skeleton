@@ -34,10 +34,9 @@ https://start.spring.io/
 -> Java 21
 -> Spring Web
 
+
 Becareful VPN and proxy, Anti-virus and firewall
 
-Download gradle-8.13-bin.zip
--> extract to C:\Users\Harrison\.gradle\wrapper\dists\gradle-8.13-bin\5xuhj0ry160q40clulazy9h7d
 
       gradlew.bat bootRun
 
