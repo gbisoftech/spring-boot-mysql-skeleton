@@ -34,9 +34,9 @@ https://start.spring.io/
 -> Java 21
 -> Spring Web
 
-When execution failed(turn off virus protection and firewall or check vpn or proxy) or
-Download gradle-8.13-bin.zip
--> extract to C:\Users\Harrison\.gradle\wrapper\dists\gradle-8.13-bin\5xuhj0ry160q40clulazy9h7d
+
+Becareful VPN and proxy, Anti-virus and firewall
+
 
       gradlew.bat bootRun
 
